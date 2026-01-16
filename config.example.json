@@ -1,0 +1,12 @@
+# Example configuration file for GradientClock V2
+# This shows the JSON structure used for configuration sync
+
+{
+  "timeFormat": "HOURS_24",
+  "theme": {
+    "name": "Purple Dream",
+    "startColor": "#667eea",
+    "endColor": "#764ba2"
+  },
+  "lastUpdated": 1705449600000
+}

@@ -1,0 +1,40 @@
+.gradle/
+build/
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.DS_Store
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+
+# Config files (user-specific)
+clock_config.json
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Log files
+*.log
+
+# React / Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
